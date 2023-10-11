@@ -1,0 +1,1 @@
+selct current_date from dual
